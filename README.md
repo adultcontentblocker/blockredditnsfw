@@ -2,10 +2,15 @@
 !Block these subreddits:
 
 reddit.com/r/collegesluts
+
 reddit.com/r/CollegeAmateurs
+
 reddit.com/r/collegensfw
+
 reddit.com/r/CollegeInitiation
+
 reddit.com/r/springbreakers
+
 reddit.com/r/milf
 reddit.com/r/maturemilf
 reddit.com/r/MILFs
